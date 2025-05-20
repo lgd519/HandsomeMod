@@ -1,0 +1,12 @@
+{
+  "名称": "CI 构建容器",
+  "镜像": "ghcr.io/openwrt/buildbot/buildworker-v3.8.0:v9",
+  "功能": {
+  }，
+  "远程用户": "buildbot",
+  "定制": {
+    "vscode": {
+      "扩展": ["ms-vscode.cpptools", "plorefice.devicetree"]
+    输入：}
+  输入：}
+输入：}
